@@ -1,0 +1,10 @@
+{
+  "name": "lockfile-merge-conflicts-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.21",
+    "@types/lodash": "4.14.194"
+  }
+}
